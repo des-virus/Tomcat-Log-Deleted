@@ -119,6 +119,7 @@
     <None Include="Resources\info.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bin\Debug\Tomcat Log Deleted.exe" />
     <Content Include="boss_no_bg_xFh_icon.ico" />
     <Content Include="boss_sPT_icon.ico" />
   </ItemGroup>
